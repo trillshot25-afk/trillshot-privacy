@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TrillShot Privacy Policy</title>
+<style>
+    body {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+        line-height: 1.6;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        color: #333;
+    }
+    h1 { color: #1a1a1a; }
+    h2 { color: #2a2a2a; margin-top: 30px; }
+</style>
+</head>
+<body>
+<h1>Privacy Policy for TrillShot</h1>
+<p><strong>Last Updated:</strong> October 15, 2025</p>
+
+<h2>Advertising</h2>
+<p>This app displays advertisements provided by Google AdMob. AdMob may collect and use data to provide personalized ads. For more information about how Google uses data, please visit:</p>
+<p><a href="https://policies.google.com/privacy">Google Privacy Policy</a></p>
+
+<h2>Data Collection</h2>
+<p>Our app collects location data to enable proximity-based features. We collect:</p>
+<ul>
+    <li>Location information (when app is in use)</li>
+    <li>User profile information</li>
+    <li>Photos and messages shared within the app</li>
+</ul>
+
+<h2>Third-Party Services</h2>
+<p>We use the following third-party services:</p>
+<ul>
+    <li><strong>Google AdMob:</strong> For displaying advertisements</li>
+    <li><strong>Supabase:</strong> For backend services and data storage</li>
+</ul>
+
+<h2>Contact</h2>
+<p>For questions about this privacy policy, contact us at: support@trillshot.com</p>
+</body>
+</html>
